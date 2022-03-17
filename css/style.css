@@ -611,10 +611,6 @@ address {
     #menu-bar {
         display: block;
     }
-    header {
-        width: 768px;
-        height: auto;
-    }
     header .navbar {
         position: absolute;
         top: 100%;
